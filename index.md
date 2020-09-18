@@ -26,6 +26,7 @@ I am a college student and day trader, currently studying Btech+MS at Jawaharlal
 1. Surendra Paul Scholarship Award: Was awarded Rs 50,000 from school for exceptional academic performance in science stream.
 2. Deputy Head of School
 3. International English Olympiad conducted by British Council: International rank one secured. 
+
 ## Skills 
 
 -  Analytical Skills
