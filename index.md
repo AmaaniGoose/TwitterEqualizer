@@ -1,6 +1,6 @@
 ## Welcome to the personal site of Amanullah Asad
 
-![my picture](../assets/dp.png)
+![my picture](/assets/dp.png)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
