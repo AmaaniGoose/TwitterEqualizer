@@ -18,8 +18,9 @@ I am a college student and day trader, currently studying Btech+MS at Jawaharlal
 
 ## Education
 
-1. Apeejay School, Park Street: Graduated with 97.4% marks in CBSE Science stream(best of four)
-2. Currently studying at Jawaharlal Nehru University. 
+1. Apeejay School, Park Street: Tenth Grade: Graduated with CGPA 10 from CBSE. 
+2. Apeejay School, Park Street: Twelfth Grade: Graduated with 97.4% marks in CBSE Science stream(best of four).
+3. Currently studying at Jawaharlal Nehru University. 
 
 ## Honors & Awards
 
