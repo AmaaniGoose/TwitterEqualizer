@@ -1,6 +1,6 @@
 # Welcome to the personal site of Amanullah Asad
 
-![my picture](/assets/IMG20200305135806.jpg)
+![my picture](/assets/dp2.jpg)
 
 ## About me
 
