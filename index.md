@@ -44,6 +44,9 @@ I am a college student and day trader, currently studying Btech+MS at Jawaharlal
 
 - Coursera: Introduction to Financial Markets
 - Coursera:  Front-End Web UI Frameworks and Tools React
+- Coursera:  Front-End Web UI Frameworks and Tools React Native
+- Coursera:  Front-End Web UI Frameworks and Tools Angular
+- Coursera:  Back-End Web UI Frameworks and Tools NodeJs, Express and MongoDB
 
 ## Hobbies
 
